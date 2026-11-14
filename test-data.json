@@ -1,0 +1,14 @@
+{
+  "products": {
+    "visible": ["ADIDAS ORIGINAL", "ZARA COAT 3", "iphone 13 pro"],
+    "first": "iphone 13 pro",
+    "second": "ZARA COAT 3",
+    "missing": "EXITED PRODUCT"
+  },
+  "invalidEmail": "invalid.user@example.com",
+  "payment": {
+    "cvv": "123",
+    "nameOnCard": "Ahmed",
+    "country": "France"
+  }
+}
